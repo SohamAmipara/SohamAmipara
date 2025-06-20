@@ -1,41 +1,62 @@
-# 👋 Hello, I'm Soham B Amipara!
+# 👋 Hey there! I'm Soham B. Amipara
 
-## 🚀 About Me
-Ambitious AI & Machine Learning Master's student 🎓 and Data Science Intern at Innomatics Research Labs 📊. I'm passionate about leveraging technology to solve complex problems and make a positive impact in the world. With a rich background in mobile app development, data analysis, and model development, I thrive in collaborative environments and am always eager to take on new challenges.
+I'm an AI/ML engineer, educator, and product thinker — building intelligent systems that solve real-world problems with a focus on impact, ethics, and accessibility.  
 
-## 🛠 Skills
+💡 I use **Machine Learning** and **Generative AI** to design fintech products, automate decisions, and teach others to do the same. I love working on things that make people's lives easier, faster, and smarter.
 
-![Python](https://skillicons.dev/icons?i=python&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![Django](https://skillicons.dev/icons?i=django&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark)
+---
 
-Proficient in various programming languages, frameworks, and libraries. My technical expertise includes software development, Android development, machine learning, data science, and programming.
+## 🔭 Current Focus
 
-## 🌐 Connect With Me
+- 🚀 Building **AI-powered portfolio projects** using GenAI, LLMs, and ML pipelines
+- 🧠 Creating explainable, ethical, and scalable AI systems
+- 🎓 Teaching and mentoring learners in **AI, ML, and Data Science**
+- 🌍 Targeting **remote-first, USD-paying roles** in Data Science / AI Engineering
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-amipara)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohamAmipara)
-- <a href="https://medium.com/@soham.amipara91"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+---
 
-## 🏆 Competitions & Certifications
+## 🧰 My Toolbelt
 
-Actively participate in data science competitions and have completed several certifications to further my expertise, including:
-- The Full Stack on Coursera
-- Reinforcement Learning beginner to master on Udemy
-- SQL (Basic) on HackerRank
-- How to speak effectively on WebVeda
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![pytorch](https://skillicons.dev/icons?i=pytorch)
+![flask](https://skillicons.dev/icons?i=flask)
+![javascript](https://skillicons.dev/icons?i=javascript)
+![firebase](https://skillicons.dev/icons?i=firebase)
+![gcp](https://skillicons.dev/icons?i=gcp)
+![aws](https://skillicons.dev/icons?i=aws)
+![heroku](https://skillicons.dev/icons?i=heroku)
+![tableau](https://skillicons.dev/icons?i=tableau)
+![git](https://skillicons.dev/icons?i=git)
 
-## 💼 Professional Experience
+💡 Also skilled in: NLP · Computer Vision · LLMs · Prompt Engineering · Power BI · RoboFlow · YOLOv5 · Scikit-learn · Responsible AI · Model Optimization
 
-- **Innomatics Research Labs**: Led projects to optimize delivery routes and developed algorithms for LinkedIn profile extraction.
-- **HK APPS**: Developed a secure download permission system and contributed to data visualization.
-- **Webxpress**: Developed a comprehensive app for warehouse management.
+---
 
-## 🎓 Education
+## 📂 Featured Work
 
-- **Master of Technology, AI & ML**: Symbiosis International University, Pune
-- **Bachelor of Technology, ICT**: UKA Tarsadia University, Bardoli
+Coming soon: 🔥 I'm currently building 3 end-to-end, business-driven GenAI projects — launching June 30, 2025. Stay tuned!
 
-## 🌟 Why I'm Great
+---
 
-I bring a unique combination of technical skills, creativity, and a drive for continuous learning to every project I tackle. My diverse experience as a developer and researcher allows me to approach problems from multiple angles and deliver innovative solutions.
+## 📣 Let’s Connect
 
-Thank you for visiting my profile! Let's connect and create something amazing together.
+I’m open to:
+- 💼 Freelance / Remote roles in AI/ML, Data Science, or Product AI
+- 🤝 Collaborations on open-source AI tools
+- 🎤 Talks, workshops, and mentoring
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-amipara)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/SohamAmipara)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@soham.amipara91)
+📬 **Email**: soham.amipara91@gmail.com
+
+---
+
+## ✨ Motto
+
+*I don’t just build AI to automate — I build AI to amplify human intelligence.*
+
+---
+
